@@ -1,0 +1,67 @@
+{
+  "_from": "nativescript-danem-checkbox^1.0.0",
+  "_id": "nativescript-danem-checkbox1.0.0",
+  "_inBundle": false,
+  "_location": "/nativescript-danem-checkbox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nativescript-danem-checkbox^1.0.0",
+    "name": "nativescript-danem-checkbox",
+    "escapedName": "nativescript-danem-checkbox",
+    "scope": "@nstudio",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@nstudio/nativescript-checkbox/-/nativescript-checkbox-1.0.0.tgz",
+  "_shasum": "f3b9843ca3c219f8d6f1c5c2d5b1e3777795f808",
+  "_spec": "nativescript-danem-checkbox^1.0.0",
+  "_where": "/Users/jean-marcchemama/Projets/Up/Doowit",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com"
+  },
+  "bootstrapper": "@nativescript/plugin-seed",
+  "bugs": {
+    "url": "https://github.com/nstudio/nativescript-plugins/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "NativeScript",
+      "email": "oss@nativescript.org"
+    }
+  ],
+  "deprecated": false,
+  "description": "NativeScript plugin for checkbox.",
+  "homepage": "",
+  "keywords": [
+    "NativeScript",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "Material Design",
+    "CheckBox",
+    "nStudio"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "nativescript-danem-checkbox",
+  "nativescript": {
+    "platforms": {
+      "ios": "6.0.0",
+      "android": "6.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.0"
+}
